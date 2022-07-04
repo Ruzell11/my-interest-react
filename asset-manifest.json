@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/my-interest-react/static/css/main.491af13c.css",
+    "main.js": "/my-interest-react/static/js/main.9cf1b861.js",
+    "static/media/videogame.jpg": "/my-interest-react/static/media/videogame.527ee8fe9db91ea43688.jpg",
+    "static/media/music.jpg": "/my-interest-react/static/media/music.22ac6459f08d1a21be0f.jpg",
+    "static/media/movie.jpg": "/my-interest-react/static/media/movie.5e570b03005a8288aad3.jpg",
+    "index.html": "/my-interest-react/index.html",
+    "main.491af13c.css.map": "/my-interest-react/static/css/main.491af13c.css.map",
+    "main.9cf1b861.js.map": "/my-interest-react/static/js/main.9cf1b861.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.491af13c.css",
+    "static/js/main.9cf1b861.js"
+  ]
+}
